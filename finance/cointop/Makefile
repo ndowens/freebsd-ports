@@ -1,14 +1,14 @@
 # $FreeBSD$
 
 PORTNAME=	cointop
-PORTVERSION=	1.1.2
+PORTVERSION=	1.3.6
 CATEGORIES=	finance
 
-MAINTAINER=	ndowens@yahoo.com
+MAINTAINER=	ndowens04@gmail.com
 COMMENT=	Light cryptocurrency coin stats
 
 LICENSE=	APACHE20
-LICENSE_FILE=	${WRKSRC}/LICENSE.md
+LICENSE_FILE=	${WRKSRC}/LICENSE
 
 USES=		go:modules
 
