@@ -2,11 +2,11 @@
 # $FreeBSD$
 
 PORTNAME=	libffcall
-PORTVERSION=	2.1
+PORTVERSION=	2.2
 CATEGORIES=	devel
 MASTER_SITES=	GNU
 
-MAINTAINER=	ndowens@yahoo.com
+MAINTAINER=	ndowens04@gmail.com
 COMMENT=	Foreign function call libraries
 
 LICENSE=	GPLv2+
