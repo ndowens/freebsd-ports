@@ -2,10 +2,9 @@
 # $FreeBSD$
 
 PORTNAME=	fs-uae-launcher
-PORTVERSION=	2.8.4
-PORTREVISION=	2
+PORTVERSION=	3.0.0
 CATEGORIES=	emulators
-MASTER_SITES=	http://fs-uae.net/fs-uae/stable/${PORTVERSION}/
+MASTER_SITES=	http://fs-uae.net/stable/${PORTVERSION}/
 
 MAINTAINER=	ndowens@yahoo.com
 COMMENT=	GUI launcher for the FS-UAE Amiga emulator
