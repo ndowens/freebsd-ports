@@ -3,9 +3,9 @@
 
 PORTNAME=	libxslt
 PORTVERSION=	1.1.33
+PORTREVISION=	1
 CATEGORIES?=	textproc gnome
-MASTER_SITES=	http://xmlsoft.org/sources/ \
-		https://mirror.umd.edu/xbmc/build-deps/sources/
+MASTER_SITES=	https://ftp.osuosl.org/pub/blfs/conglomeration/libxslt/
 DIST_SUBDIR=	gnome2
 
 MAINTAINER?=	gnome@FreeBSD.org
