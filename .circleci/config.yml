@@ -1,0 +1,6 @@
+freebsd_instance:
+        image_family: freebsd-13-0-snap
+
+task:
+        install_script: pkg install -y ...
+        script: ...
